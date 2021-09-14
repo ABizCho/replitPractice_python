@@ -1,2 +1,2 @@
 language = "python3"
-run = "python prac5_io.py"
+run = "python prac6_while.py"
