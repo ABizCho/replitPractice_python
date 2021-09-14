@@ -1,2 +1,2 @@
 language = "python3"
-run = "python prac6_while.py"
+run = "python prac7_for.py"
